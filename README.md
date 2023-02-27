@@ -6,7 +6,7 @@ is frequently used in machine vision. It just so happens that it is also a datas
 perceptrons are well equipped to handle! An example of these handwritten numbers can be
 seen below.
 <br/>
-  ![alt text](/images2/projectImage1.PNG "ExampleData")
+  ![alt text](/Images2/project2Image1.PNG "ExampleData")
 <br/>
 
 ### Binary Classification Using Multilayer Perceptrons (80 points)
